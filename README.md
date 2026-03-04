@@ -3,7 +3,7 @@ This project presents a Sales Performance Dashboard built using Power BI.
 providing interactive insights for business decision-making.
 
 ## Dashboard Preview
-![Sales Dashboard](DASHBOARD.PNG)
+![Sales Dashboard](DASHBOARDPNG.PNG)
 
 ## Implemented
 -Data Cleaning & Transformation using Power Query
