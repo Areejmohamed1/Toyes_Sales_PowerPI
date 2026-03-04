@@ -7,8 +7,13 @@ providing interactive insights for business decision-making.
 
 ## Implemented
 -Data Cleaning & Transformation using Power Query
+
 -Data Modeling (Relationships & Star Schema)
+
 -DAX Calculated Columns
+
 -DAX Measures 
+
 -Interactive Dashboard Design
+
 -Slicers & Dynamic Filtering
